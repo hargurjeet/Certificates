@@ -1,4 +1,4 @@
-# Certificates
+# Trainings & Certificates
 
 The repo contains the documents for the list of ceritificates I completed in the field of Data Science.
 
