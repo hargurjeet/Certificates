@@ -4,7 +4,7 @@ The repo contains the documents for the list of ceritificates I completed in the
 
 - ### [Microsoft Azure AI Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_AI900.pdf)
 - ### [Microsoft Azure Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_AZ900.pdf)
-- ### [Microsoft Data Fundamentals]()
+- ### [Microsoft Data Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_CertificateDP900.pdf)
 - ### [Data Analysis with Python:Zero to Pandas](https://jovian.ai/certificate/MFQTCMRWGY)
 - ### [Deep Learning with PyTorch: Zero to GANs](https://jovian.ai/certificate/MFQTIMZSGE)
 - ### [Natural Language Processing in TensorFlow](https://coursera.org/share/40b75c7ca30ae94fa6f4fc2f019d1fa2)
