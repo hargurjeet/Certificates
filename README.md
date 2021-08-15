@@ -14,3 +14,4 @@ The repo contains the documents for the list of ceritificates I completed in the
 - ### [Deep Learning: Image Recognition](https://github.com/hargurjeet/Certificates/blob/main/CertificateOfCompletion_Deep%20Learning%20Image%20Recognition.pdf)
 - ### [Advanced NoSQL for Data Science](https://github.com/hargurjeet/Certificates/blob/main/CertificateOfCompletion_Advanced%20NoSQL%20for%20Data%20Science.pdf)
 - ### [Statistics Foundations](https://github.com/hargurjeet/Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%201.pdf)
+- ### [Intro to machine learning by Kaggle](https://github.com/hargurjeet/Certificates/blob/main/Hargurjeet%20Singh%20-%20Intro%20to%20Machine%20Learning.png)
