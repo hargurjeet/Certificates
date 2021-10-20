@@ -2,6 +2,7 @@
 
 The repo contains the documents for the list of ceritificates I completed in the field of Data Science.
 
+- ### [Microsoft Certified - Azure Data Scientist Associate](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Data_Scientist.pdf)
 - ### [Microsoft Azure AI Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_AI900.pdf)
 - ### [Microsoft Azure Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_AZ900.pdf)
 - ### [Microsoft Data Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_CertificateDP900.pdf)
