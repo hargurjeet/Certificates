@@ -2,6 +2,7 @@
 
 The repo contains the documents for the list of ceritificates I completed in the field of Data Science.
 
+- ### [GCP - Machine Learning Engineer](https://www.credential.net/5856a520-867d-4ef8-b472-a9967616bf5a?key=e47d096fc0373c1f61586279b4de6f2aef6b28216813ad755218af646311a8ba)
 - ### [AI102 - Designing and Implementing a Microsoft Azure AI Solution](https://github.com/hargurjeet/Certificates/blob/main/Azure%20AI%20Engineer.pdf)
 - ### [DP100 - Designing and Implementing a Data Science Solution on Azure](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Data_Scientist.pdf)
 - ### [AI900 - AI Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_AI900.pdf)
